@@ -1,5 +1,5 @@
 ## 起動
-`$ git clone https://github.com/Yota-K/wordpress-starter`  
+`$ git clone https://github.com/Yota-K/wp-starter.git`  
 `$ docker-compose build`  
 `$ docker-compose up -d`
 
