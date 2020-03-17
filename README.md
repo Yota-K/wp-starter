@@ -6,6 +6,9 @@
 ## アクセス
 `localhost:8080`
 
+## コンテナを起動
+`$ docker-compose start`
+
 ## コンテナを止める
 `$ docker-compose stop`
 
